@@ -6,7 +6,7 @@
 </h3>
 
 ## 🧑‍💻 About Me
-- 🌱 Learning more about: Cloud computing (AWS), DevOps and Scrum practices, Djando and More.
+- 🌱 Learning more about: Djando & Docker.
 - 👯 Looking to collaborate on: projects related to AI, development, or automation.  
 - 📜 Certified in: Artificial Intelligence | Completed a Cybersecurity course.  
 
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,linux,git,django,idea,java,kali,postman,py,postgres,sqlite,mysql,ubuntu,vscode,windows,wordpress,notion,obsidian,powershell,flask&perline=10" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,powershell,idea,vscode,java,py,js,django,postgres,sqlite,mysql,postman,git,notion,obsidian&perline=8" />
   </a>
 </p>
 
