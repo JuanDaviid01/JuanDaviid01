@@ -2,7 +2,7 @@
 <p align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Exploring+AI%2C+Data%2C+and+Automation." alt="Typing SVG" /></a>
 </p>
-<h3>I'm a systems and Telecommunications Engineering student, soon to graduate. passionate about *Software Development, Artificial Intelligence, Cybersecurity, Databases, and Intelligent Automation*. Always curious about how technology can solve real-world problems through creativity and innovation.
+<h3>I'm a systems and Telecommunications Engineering student, soon to graduate. passionate about Software Development, Artificial Intelligence, Cybersecurity, Databases, and Intelligent Automation. Always curious about how technology can solve real-world problems through creativity and innovation.
 </h3>
 
 ## 🧑‍💻 About Me
