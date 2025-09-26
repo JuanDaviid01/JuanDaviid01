@@ -19,6 +19,15 @@
   </a>
 </p>
 
+# 📂 Projects
+
+Here are some of my GitHub repositories:
+
+- [**academiaKit**](https://github.com/JuanDaviid01/academiaKit) – Academic management system using Django (🚧 *In Progress*)
+- [**Java-DoubleLinkedList**](https://github.com/JuanDaviid01/Java_DoubleLinkedList) – Learning project on doubly linked lists in Java.  
+- [**GoogleMaps-API-Project**](https://github.com/JuanDaviid01/ejemploApiGoogle) – Practical app for consuming and integrating Google Maps API.  
+- [**CarManager-NodeJS**](https://github.com/JuanDaviid01/legalAutos_backend/tree/juanDavid) – Backend with Node.js for a car trading management system.  
+
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
