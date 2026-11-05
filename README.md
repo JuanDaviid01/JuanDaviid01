@@ -2,20 +2,20 @@
 <p align="center">
 	<a><img src="https://readme-typing-svg.herokuapp.com?font=verdana&pause=2000&color=F76B31&center=true&vCenter=true&width=435&lines=Exploring+AI+%26+Data+analysis;Systems+and+Telecom+Engineer" alt="Typing SVG" /></a>
 </p>
-<h3>I'm a systems and Telecommunications Engineering student, soon to graduate. passionate about Software Development, Artificial Intelligence, Cybersecurity, Databases, and Intelligent Automation. Always curious about how technology can solve real-world problems through creativity and innovation.
+<h3>I'm a systems and Telecommunications Engineering. passionate about Software Development, Artificial Intelligence and Intelligent Automation. Always curious about how technology can solve real-world problems through creativity and innovation.
 </h3>
 
 ## 🧑‍💻 About Me
 - 🌱 Learning more about: Djando & Docker.
 - 👯 Looking to collaborate on: projects related to AI, development, or automation.  
-- 📜 Certified in: Artificial Intelligence | Completed a Cybersecurity course.  
+- 📜 Certified in: Artificial Intelligence 
 
 
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,powershell,idea,vscode,java,py,js,django,postgres,sqlite,mysql,postman,git,notion,obsidian&perline=8" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,powershell,vscode,py,js,postman,git,notion,obsidian&perline=10" />
   </a>
 </p>
 
